@@ -1,0 +1,14 @@
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\bin\Debug\netcoreapp2.1\s16508_kolokwium.deps.json
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\bin\Debug\netcoreapp2.1\s16508_kolokwium.runtimeconfig.json
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\bin\Debug\netcoreapp2.1\s16508_kolokwium.runtimeconfig.dev.json
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\bin\Debug\netcoreapp2.1\s16508_kolokwium.dll
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\obj\Debug\netcoreapp2.1\s16508_kolokwium.csprojAssemblyReference.cache
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\obj\Debug\netcoreapp2.1\s16508_kolokwium.csproj.CoreCompileInputs.cache
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\obj\Debug\netcoreapp2.1\s16508_kolokwium.RazorAssemblyInfo.cache
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\obj\Debug\netcoreapp2.1\s16508_kolokwium.RazorAssemblyInfo.cs
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\obj\Debug\netcoreapp2.1\s16508_kolokwium.AssemblyInfoInputs.cache
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\obj\Debug\netcoreapp2.1\s16508_kolokwium.AssemblyInfo.cs
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\obj\Debug\netcoreapp2.1\s16508_kolokwium.RazorTargetAssemblyInfo.cache
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\bin\Debug\netcoreapp2.1\s16508_kolokwium.pdb
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\obj\Debug\netcoreapp2.1\s16508_kolokwium.dll
+C:\Users\kbernatjanuszkiewicz\source\repos\s16508_kolokwium\s16508_kolokwium\obj\Debug\netcoreapp2.1\s16508_kolokwium.pdb
